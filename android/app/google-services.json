@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1082664498181",
+    "project_id": "wetalk-8e92d",
+    "storage_bucket": "wetalk-8e92d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082664498181:android:cffb5c53e38ed6d05b186c",
+        "android_client_info": {
+          "package_name": "com.example.wetalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082664498181-to8dcbo0r6phl51f4d9hsr6naarjig8v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wetalk",
+            "certificate_hash": "06542f5bf6948176d5b6d20e3972cab9b581456d"
+          }
+        },
+        {
+          "client_id": "1082664498181-j8nasjjjcfa54eooc36td293v0v63kdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6DZiTy5teT5puQ6lBEZYLUhu2ip0-NAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082664498181-j8nasjjjcfa54eooc36td293v0v63kdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
